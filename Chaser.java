@@ -1,7 +1,10 @@
 import java.util.Random;
 import javax.swing.*;
 
-/** This class represents the eagle objects that chase the snake around the board */
+/** 
+* @author CS1027
+* This class represents the eagle objects that chase the snake around the board
+**/
 
 public class Chaser {
 	public final int UP = 0;
