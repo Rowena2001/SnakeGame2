@@ -1,5 +1,5 @@
 /**
- * Created by Rowena Shi | 251073629
+ * @author Rowena
  * The class stores the information about the snake as it moves around the board.
  **/
 
