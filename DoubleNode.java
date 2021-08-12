@@ -1,5 +1,5 @@
 /**
- * Created by Rowena Shi | 251073629
+ * @author Rowena
  * This class represents the nodes in a doubly linked list.
  */
 
