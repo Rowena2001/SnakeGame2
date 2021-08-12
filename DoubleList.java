@@ -1,5 +1,5 @@
 /**
- * Created by Rowena Shi | 251073629
+ * @author Rowena
  * This class represents a doubly linked list of nodes of the class DoubleNode.
  **/
 
