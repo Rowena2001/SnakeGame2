@@ -1,5 +1,5 @@
 /**
- * Created by Rowena Shi | 251073629
+ * @author Rowena
  * This class represents the board game where the snake moves around eating apples.
  **/
 
